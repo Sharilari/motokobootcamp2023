@@ -1,6 +1,6 @@
 1. How much is the current memory capacity of a canister? 
 
-A: 32 GiB (Proposal 86279)
+A: 48 GiB (Proposal 92573)
 
 2. What is the issue with the following code sample?
 ```
