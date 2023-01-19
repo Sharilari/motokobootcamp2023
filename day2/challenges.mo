@@ -41,8 +41,6 @@ public func average_array(array : [Int]) : async Int {
 
 // no idea. Maybe somehow with text.toiter. 
 
-}
-
 // Challenge 3:
 
 //public func factorial(n : Nat) : async Nat {
